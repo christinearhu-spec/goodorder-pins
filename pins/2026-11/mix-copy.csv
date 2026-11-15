@@ -29,3 +29,19 @@
 "carousel","home-binder","The Home Binder","Could a stranger run this house for two weeks?","home-binder","plum"
 "carousel","broker-planner","The Support Broker Planner","For the broker who carries everyone.","support-broker-planner","clay"
 "carousel","broker-manual","The Support Broker’s Operating Manual","Set up, run, bill, and grow a practice inside self-direction.","support-broker-operating-manual","blush"
+lesson,l25,Notary Practice Dashboard,Your $75 notary fee is two numbers pretending to be one.,Notary-Practice-Dashboard,notary
+lesson,l26,The Notary Practice Starter,The state capped your notary fee. It did not cap your travel. Stop blending them.,notary-practice-starter,notary
+lesson,l27,Notary Practice Dashboard,Most notary invoices are one line. That line is a fee violation waiting to happen.,Notary-Practice-Dashboard,notary
+lesson,l28,The Signing-Day Checklist,A signing goes wrong in predictable ways. Every one dies the night before.,signing-day-checklist,notary
+lesson,l29,The Apostille Tracker,"Quote the project, not the act. Government fees at cost, your service fee on its own line.",apostille-tracker,notary
+lesson,l30,Notary Practice Dashboard,"The subpoena wants three entries, not the book.",Notary-Practice-Dashboard,notary
+lesson,l31,Memory to Manual Operations Playbook,"If your business cannot survive your flu, you do not own a business. You own a job with overhead.",Memory-Manual-Operations-Playbook,smallbiz
+lesson,l32,Memory to Manual Operations Playbook,"Take a week off. If the phone rings more than twice, that is your SOP list.",Memory-Manual-Operations-Playbook,smallbiz
+lesson,l33,Reconciliation Dashboard,Invoiced is not paid. Paid is not deposited.,reconciliation-dashboard,smallbiz
+lesson,l34,Reconciliation Dashboard,The move-out you finished Friday. Did you ever invoice it?,reconciliation-dashboard,smallbiz
+lesson,l35,Memory to Manual Operations Playbook,"Day one should be the same every time, whoever is in the office.",Memory-Manual-Operations-Playbook,smallbiz
+lesson,l36,Reconciliation Dashboard,"Your bank app, your invoicing app, and your memory do not talk.",reconciliation-dashboard,smallbiz
+carousel,notary-fee,Notary Practice Dashboard,Your $75 notary fee is two numbers pretending to be one.,Notary-Practice-Dashboard,blush
+carousel,notary-journal,The Notary Journal,Fill it at the table. The car is where memory edits.,notary-journal,cream
+carousel,smallbiz-you,Memory to Manual Operations Playbook,"If the business stops when you stop, the business is you.",Memory-Manual-Operations-Playbook,clay
+carousel,smallbiz-paid,Reconciliation Dashboard,Invoiced is not paid. Paid is not deposited.,reconciliation-dashboard,sage
